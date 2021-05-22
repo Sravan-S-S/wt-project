@@ -1,0 +1,170 @@
+
+a:link, a:visited {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.main {
+	margin:0em;
+	background-color:#1d3969;
+}
+
+.main-heading {
+	color: #f3971b;
+	font-family: Arial;
+	text-align: center;
+	font-size: 40;
+}
+
+.navbar {
+	border: 0em; 
+	width: 85%; 
+	padding: 1em; 
+	border-spacing: 0em; 
+	margin: auto;
+	text-align: center;
+	background-color: #1d3969;
+}
+
+.navbar h3 {
+	font-family: Arial;
+	color: white;
+}
+
+.about-container {
+	background-color: #1d3969;
+	margin-top: 0em;
+	padding-top: 5em;
+}
+
+.about-style {
+	border: 0em;
+	width: 85%;
+	padding-left: 10em;
+	padding-top: 2em;
+	padding-bottom: 5em;
+	border-spacing: 2em;
+	background-color: #1d3969;
+}
+
+.about-style p {
+	font-family: Arial;
+	color: #c2c0c3; 
+	font-size: 17;
+}
+
+.about-style ul {
+	font-family: Arial;
+	color: #c2c0c3; 
+	font-size: 16;
+}
+
+.about-style h3 {
+	font-family: Arial;
+	color: #c2c0c3; 
+}
+
+.about-style td {
+	vertical-align: top;
+}
+
+#about1 {
+	width:35%;
+}
+
+#about2 {
+	width:65%;
+}
+
+.faculty-style {
+	border: 0em;
+	width: 100%;
+	padding: 10em;
+	padding-top: 2em;
+	border-spacing: 2em;
+	background-color: #1d3969;
+	text-align: center;
+}
+
+.faculty-style td {
+	background-color: #292929;
+	padding:1em;
+	font-family: Arial;
+	color: #ffffff;
+	font-size: 25; 
+}
+
+.faculty-container {
+	background-color: #1d3969;
+	margin-top: 0em;
+	padding-top: 1em;
+}
+
+.faculty-designation {
+	font-family: Arial;
+	color: #f3971b;
+	font-size: 20; 
+}
+
+.form-style {
+	margin: auto; 
+	background-color:#1d3969; 
+	width: 50%;
+	padding: 1em;
+	border-spacing: 2em;
+}
+
+.form-label {
+	width:30%;
+	font-family: Arial;
+	color: white; 
+	font-size: 20;
+}
+
+.form-input {
+	width:70%;
+}
+
+.form-container {
+	background-color: #292929; 
+	padding: 3em;
+	padding-bottom:4em;	 
+}
+
+.form-button {
+	font-family: Arial;
+	color: black; 
+	font-size: 23; 
+}
+
+.footer-style {
+	margin: auto;
+	border: 0em;
+	width: 100%;
+	padding: 1em;
+	padding-left: 9.5%;
+	padding-right: 9.5%;
+	border-spacing: 0em;
+	background-color: #1d3969;
+}
+
+.footer-style p {
+	font-family: Arial;
+	color: #c2c0c3; 
+}
+
+.footer-style td {
+	text-align: center;
+	width: 33%;
+}
+
+.footer-text {
+	font-family: Arial;
+	color: white; 
+	font-size: 23; 
+}
+
+
+
+
+
